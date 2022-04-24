@@ -1,3 +1,6 @@
+//Nestori Kangashaka, Miro Hakuli
+//CT30A3370 Käyttöjärjestelmät ja systeemiohjelmointi
+//Projekti 2 (my_grep)
 
 #include <stdio.h>
 #include <string.h>
