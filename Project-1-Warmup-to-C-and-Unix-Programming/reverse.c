@@ -1,3 +1,7 @@
+//Nestori Kangashaka, Miro Hakuli
+//CT30A3370 Käyttöjärjestelmät ja systeemiohjelmointi
+//Projekti 1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
